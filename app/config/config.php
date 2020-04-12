@@ -4,7 +4,7 @@
   define ('DB_HOST','localhost');
   define ('DB_USER','root');
   define ('DB_PASS','admin');
-  define ('DB_NAME','shareposts');
+  define ('DB_NAME','sharepost');
 
     //echo __FILE__;
     define ('APPROOT', dirname(dirname( __FILE__)));
